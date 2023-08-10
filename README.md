@@ -10,5 +10,4 @@
 
   kimberly.vidal.silva2escola.pr.gov.br
 
-
-!{}(https://media.tenor.com/i7llTDaTPtUAAAAM/naruto.gif)
+![](https://media.tenor.com/i7llTDaTPtUAAAAM/naruto.gif)
